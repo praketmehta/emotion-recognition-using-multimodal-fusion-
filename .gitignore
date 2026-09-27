@@ -1,0 +1,14 @@
+ravdessDATASET/
+MELD.Raw/
+MELD.Features.Models/
+cache/
+results/*.pt
+*.wav
+*.mp4
+*.npy
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
